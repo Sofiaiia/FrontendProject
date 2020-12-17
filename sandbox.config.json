@@ -1,0 +1,8 @@
+{
+  "template": "node",
+  "startScript": "dev",
+  "infiniteLoopProtection": true,
+  "container": {
+    "node": "14"
+  }
+}
